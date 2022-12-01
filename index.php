@@ -134,7 +134,7 @@ $uagent=$_SERVER['HTTP_USER_AGENT'];
 					"<div class='dos_inter_char_min'>" +
 						"<div class='dos_inter_char_min_img'>" +
 							"<img src='image/icon/ic_tov_05.png' alt='влажность' title='влажность' />" +
-						"</div>" +
+						"</div>" + 
 						"<div class='dos_inter_char_min_txt'>" +
 							"<p>влажность: 5-10%</p>" +
 						"</div>" +
